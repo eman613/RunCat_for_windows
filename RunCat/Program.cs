@@ -93,6 +93,10 @@ namespace RunCat
                 new ToolStripMenuItem("Horse", null, SetRunner)
                 {
                     Checked = runner.Equals("horse")
+                },
+                new ToolStripMenuItem("Earth", null, SetRunner)
+                {
+                    Checked = runner.Equals("earth")
                 }
             });
 
