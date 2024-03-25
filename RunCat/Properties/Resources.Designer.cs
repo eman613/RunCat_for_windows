@@ -611,5 +611,188 @@ namespace RunCat.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_earth_0 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_1 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_2 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_3 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_4 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_5 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_6 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_7 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_7", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_8 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_8", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_9 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_9", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_10 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_10", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_11 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_11", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_12 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_12", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_13 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_13", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon light_earth_14 {
+            get {
+                object obj = ResourceManager.GetObject("light_earth_14", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_0 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_1 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_2 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_3 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_4 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_5 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_6 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_7 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_7", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_8 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_8", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_9 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_9", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_10 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_10", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_11 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_11", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_12 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_12", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_13 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_13", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_earth_14 {
+            get {
+                object obj = ResourceManager.GetObject("dark_earth_14", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
     }
 }
