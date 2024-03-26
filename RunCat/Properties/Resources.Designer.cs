@@ -794,33 +794,63 @@ namespace RunCat.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        internal static System.Drawing.Icon flash_cat_0 {
+        internal static System.Drawing.Icon light_flashcat_0 {
             get {
-                object obj = ResourceManager.GetObject("flash_cat_0", resourceCulture);
+                object obj = ResourceManager.GetObject("light_flashcat_0", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        internal static System.Drawing.Icon flash_cat_1 {
+        internal static System.Drawing.Icon light_flashcat_1 {
             get {
-                object obj = ResourceManager.GetObject("flash_cat_1", resourceCulture);
+                object obj = ResourceManager.GetObject("light_flashcat_1", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        internal static System.Drawing.Icon flash_cat_2 {
+        internal static System.Drawing.Icon light_flashcat_2 {
             get {
-                object obj = ResourceManager.GetObject("flash_cat_2", resourceCulture);
+                object obj = ResourceManager.GetObject("light_flashcat_2", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        internal static System.Drawing.Icon flash_cat_3 {
+        internal static System.Drawing.Icon light_flashcat_3 {
             get {
-                object obj = ResourceManager.GetObject("flash_cat_3", resourceCulture);
+                object obj = ResourceManager.GetObject("light_flashcat_3", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        internal static System.Drawing.Icon flash_cat_4 {
+        internal static System.Drawing.Icon light_flashcat_4 {
             get {
-                object obj = ResourceManager.GetObject("flash_cat_4", resourceCulture);
+                object obj = ResourceManager.GetObject("light_flashcat_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_flashcat_0 {
+            get {
+                object obj = ResourceManager.GetObject("dark_flashcat_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_flashcat_1 {
+            get {
+                object obj = ResourceManager.GetObject("dark_flashcat_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_flashcat_2 {
+            get {
+                object obj = ResourceManager.GetObject("dark_flashcat_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_flashcat_3 {
+            get {
+                object obj = ResourceManager.GetObject("dark_flashcat_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon dark_flashcat_4 {
+            get {
+                object obj = ResourceManager.GetObject("dark_flashcat_4", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
