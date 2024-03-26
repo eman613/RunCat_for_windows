@@ -794,5 +794,35 @@ namespace RunCat.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
+        internal static System.Drawing.Icon flash_cat_0 {
+            get {
+                object obj = ResourceManager.GetObject("flash_cat_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon flash_cat_1 {
+            get {
+                object obj = ResourceManager.GetObject("flash_cat_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon flash_cat_2 {
+            get {
+                object obj = ResourceManager.GetObject("flash_cat_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon flash_cat_3 {
+            get {
+                object obj = ResourceManager.GetObject("flash_cat_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        internal static System.Drawing.Icon flash_cat_4 {
+            get {
+                object obj = ResourceManager.GetObject("flash_cat_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
     }
 }
