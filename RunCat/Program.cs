@@ -97,6 +97,10 @@ namespace RunCat
                 new ToolStripMenuItem("Earth", null, SetRunner)
                 {
                     Checked = runner.Equals("earth")
+                },
+                new ToolStripMenuItem("FlashCat", null, SetRunner)
+                {
+                    Checked = runner.Equals("flashcat")
                 }
             });
 
